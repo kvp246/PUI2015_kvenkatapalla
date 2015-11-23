@@ -7,6 +7,6 @@ The plot created consists nested box plots of birth year variable for gender cat
 ![Alt text](Nested box plot.png)
 
 ### Data Used
-The data used for this plot is taken from Citibike repository for the month of October 2015
+The data used for this plot is taken from Citibike repository for the month of October 2015.
 This can be accessed in the below link:
 https://www.citibikenyc.com/system-data
