@@ -1,0 +1,30 @@
+your reviewes were insightful and on point 10/10
+
+NOTES ON YOUR PLOT
+===================
+
+nice color choice: avoiding blue and pink/red for male female is a good idea to avoid triggering preconceptions
+
+robust to color blindness
+
+low resolution (typical of seaborn) is questionable (remember tufte's rules)
+
+labels too small
+
+legend too small
+
+refer to gende, not sex.
+
+the artificial lower limit to the age gives the odd all equal upper quartile, and should be explained in the caption or in a text
+
+
+
+NOTES ON YOUR PLOT THE PLOTS YOU REVIEWED
+===========================================
+
+
+cmp670
+============
+
+very nice and clear, despite the large amount of info displayed
+
